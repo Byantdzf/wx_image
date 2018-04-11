@@ -8,51 +8,11 @@ var HitBuilders = ga.HitBuilders
 export default class extends wepy.app {
   config = {
     pages: [
-      // tab-bar
-//      'pages/test',
       'pages/index',
       'pages/collect',
       'pages/qr',
       'pages/borrow',
-      // 'pages/party',
-      'pages/user',
-
-      // 首页
-      'pages/main/search',
-      'pages/main/list',
-      'pages/main/detail',
-
-      // 图书
-      'pages/book/comment',
-      'pages/book/comments',
-      'pages/book/list',
-      'pages/book/detail',
-
-      // 图书馆管理
-      'pages/library/library',
-      'pages/library/borrow',
-      'pages/library/usercollect',
-      'pages/library/members',
-      'pages/library/borrows',
-      'pages/library/book',
-      'pages/library/book_edit',
-      'pages/library/sorts',
-      'pages/library/sorts_list',
-      'pages/library/sort',
-      'pages/library/create',
-
-      'pages/borrow/subscribe',
-      'pages/borrow/result',
-
-      // 我的
-      'pages/user/register',
-      'pages/user/follower',
-      'pages/user/booklist',
-      'pages/user/borrow',
-      'pages/user/borrows',
-      'pages/user/return',
-      'pages/user/collect',
-      'pages/user/subscribe'
+      'pages/user'
     ],
     window: {
       navigationBarTitleText: '友福图书馆',
@@ -82,11 +42,6 @@ export default class extends wepy.app {
         selectedIconPath: './images/tabbars/icon-qr-active.png',
         iconPath: './images/tabbars/icon-qr.png',
         text: '扫码'
-      /* }, {
-        pagePath: 'pages/party',
-        selectedIconPath: './images/tabbars/icon-shelf-active@2x.png',
-        iconPath: './images/tabbars/icon-shelf@2x.png',
-        text: '聚会' */
       }, {
         pagePath: 'pages/borrow',
         selectedIconPath: './images/tabbars/icon-book2-active.png',
