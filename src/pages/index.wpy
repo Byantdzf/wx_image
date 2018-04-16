@@ -1,9 +1,12 @@
 <template>
-  <view class="page-index">
-    <SearchBar :placeholder="searchText"></SearchBar>
-    <Category :list.sync="categorys" col="3"></Category>
-    <BookList :list.sync="list" title="图书推荐"
-     :loading.sync="loading" :noMore.sync="noMoreList"></BookList>
+  <view class="page-index" @tap="goto('/pages/page')">
+      友福聚会首页
+    <view class="weui-cell__hd">
+      <view class="weui-label reset-label-left" bindtap="chooseimage">
+        <image class="imgicon"  wx:if="{{ShowUpload}}" src="{{BookImage}}" mode="aspectFit"/>
+        <image class="imgicon"  wx:else src="{{image}}" mode="aspectFit"/>
+      </view>
+    </view>
   </view>
 </template>
 
@@ -14,28 +17,22 @@
   import base from '../mixins/base'
   import http from '../mixins/http'
   import user from '../mixins/user'
-  import SearchBar from '../components/searchbar'
-  import Category from '../components/category'
-  import BookList from '../components/bookList'
+  import uploadimage from '../mixins/upload_image'
 
   export default class pageIndex extends wepy.page {
-    mixins = [base, http, user]
+    mixins = [base, http, user, uploadimage]
     config = {
-      navigationBarTitleText: '首页asasas',
+      navigationBarTitleText: '空项目',
       navigationBarTextStyle: 'white',
-      navigationBarBackgroundColor: '#049BFF'
+      navigationBarBackgroundColor: '#000000',
+      enablePullDownRefresh: false
     }
     data = {
-      searchText: '搜索图书',
       noMoreList: false,
       loading: false,
       list: [],
-      categorys: [
-        {'title': '全部图书', 'image': '/images/category/cate-all@2x.png', 'url': '/pages/book/list'},
-        {'title': '录入图书', 'image': '/images/category/cate-scan@2x.png', 'url': '/pages/qr', 'type': 'tab'},
-        {'title': '图书馆', 'image': '/images/category/cate-library@2x.png', 'url': '/pages/borrow', 'type': 'tab'}
-      ],
-      page: 1
+      page: 1,
+      image: 'https://bpic.588ku.com/element_pic/00/86/45/1756eb6344677b3.jpg!/fw/254/quality/90/unsharp/true/compress/true'
     }
 
     onReady() {
@@ -47,8 +44,6 @@
     }
 
     onShow() {
-      // 初始化页面数据
-      // this.userInfo = this.$getUser()
       this.$parent.getTracker(this.$root.$name, this.config.navigationBarTitleText)
     }
 
@@ -79,7 +74,7 @@
       this.loading = true
       // 请求列表
       this.$get({
-        url: service.recommend + '/books',
+        url: 'https://www.easy-mock.com/mock/5ad47afac318c4111e897bda/party/parties',
         data: {
           // 默认从1开始为第一页
           page: page
@@ -138,15 +133,13 @@
     }
 
     components = {
-      SearchBar,
-      BookList,
-      Category
     }
   }
 </script>
 
 <style lang="less">
-.page-index{
-  // some style
-}
+  .imgicon{
+    width: 240rpx;
+    height: 200rpx;
+  }
 </style>

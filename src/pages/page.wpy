@@ -1,0 +1,28 @@
+<template>
+  <view class="page-index" @tap="text">
+      {{list}}
+  </view>
+</template>
+
+<script>
+
+  import wepy from 'wepy'
+
+  export default class PageIndex extends wepy.page {
+    data = {
+      list: '聚会副页',
+      name: 'kobe'
+    }
+    methods = {
+      text (){
+        console.log("测试测试....")
+      }
+    };
+
+    events = {};
+    onLoad() {};
+  }
+</script>
+
+<style lang="less">
+</style>

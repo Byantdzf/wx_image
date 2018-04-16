@@ -9,50 +9,15 @@ export default class extends wepy.app {
   config = {
     pages: [
       'pages/index',
-      'pages/collect',
-      'pages/qr',
-      'pages/borrow',
-      'pages/user'
+      'pages/page'
     ],
     window: {
-      navigationBarTitleText: '友福图书馆',
+      navigationBarTitleText: '小程序',
       navigationBarTextStyle: 'white',
       navigationBarBackgroundColor: '#049BFF',
       backgroundColor: '#eaeaea',
       backgroundTextStyle: 'light',
       enablePullDownRefresh: true
-    },
-    tabBar: {
-      color: '#707070',
-      selectedColor: '#049BFF',
-      backgroundColor: '#fff',
-      borderStyle: 'black',
-      list: [{
-        pagePath: 'pages/index',
-        selectedIconPath: './images/tabbars/icon-home-active.png',
-        iconPath: './images/tabbars/icon-home.png',
-        text: '首页'
-      }, {
-        pagePath: 'pages/collect',
-        selectedIconPath: './images/tabbars/icon-book-active.png',
-        iconPath: './images/tabbars/icon-book.png',
-        text: '藏书'
-      }, {
-        pagePath: 'pages/qr',
-        selectedIconPath: './images/tabbars/icon-qr-active.png',
-        iconPath: './images/tabbars/icon-qr.png',
-        text: '扫码'
-      }, {
-        pagePath: 'pages/borrow',
-        selectedIconPath: './images/tabbars/icon-book2-active.png',
-        iconPath: './images/tabbars/icon-book2.png',
-        text: '书房'
-      }, {
-        pagePath: 'pages/user',
-        selectedIconPath: './images/tabbars/icon-my-active.png',
-        iconPath: './images/tabbars/icon-my.png',
-        text: '我的'
-      }]
     },
     networkTimeout: {
       request: 5000,
