@@ -2,65 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654f390e-268f-4c34-b38e-e2c47046a37b" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/page.wpy" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-all@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-all@2x.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-chi@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-chi@2x.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-da@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-ji@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-jii@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-jin@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-li@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-library@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-scan@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/category/cate-wan@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-avatar@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-cancel@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-eye-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-eye@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-location@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-scan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-share_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-star-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-star@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/icon/icon-upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/saoma.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/swiper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-authstr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-book-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-book.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-book2-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-book2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-home-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-mark-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-mark@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-my-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-my.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-qr-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-qr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-shelf-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-shelf@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-smile-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/tabbars/icon-smile@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/borrow.wpy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/collect.wpy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/party.wpy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/qr.wpy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/user.wpy" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.wpy" afterPath="$PROJECT_DIR$/src/app.wpy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/category.wpy" afterPath="$PROJECT_DIR$/src/components/category.wpy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/checkboxButton.wpy" afterPath="$PROJECT_DIR$/src/components/checkboxButton.wpy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/screen.wpy" afterPath="$PROJECT_DIR$/src/components/screen.wpy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/index.wpy" afterPath="$PROJECT_DIR$/src/pages/index.wpy" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/app.wpy" afterPath="$PROJECT_DIR$/src/app.wpy" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.wpy" afterPath="$PROJECT_DIR$/src/pages/index.wpy" />
+      <change beforePath="$PROJECT_DIR$/src/pages/page.wpy" afterPath="$PROJECT_DIR$/src/pages/page.wpy" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,8 +22,18 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="460">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ga.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ga.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -87,23 +42,29 @@
       <file leaf-file-name="app.wpy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.wpy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="e#9#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="297">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/index.wpy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-              <folding>
-                <element signature="e#413#436#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="721">
+              <caret line="181" column="10" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="181" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.wpy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/page.wpy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,8 +72,8 @@
       <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mixins/http.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="111" column="33" lean-forward="true" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+            <state relative-caret-position="2970">
+              <caret line="111" column="33" lean-forward="false" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -225,8 +186,8 @@
         <option value="$PROJECT_DIR$/src/components/category.wpy" />
         <option value="$PROJECT_DIR$/src/components/screen.wpy" />
         <option value="$PROJECT_DIR$/src/app.wpy" />
-        <option value="$PROJECT_DIR$/src/pages/page.wpy" />
         <option value="$PROJECT_DIR$/src/pages/index.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/page.wpy" />
       </list>
     </option>
   </component>
@@ -241,11 +202,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -313,8 +274,8 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../51/party" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="D:\ufutx_project\wx_image\node_modules\eslint" />
@@ -354,6 +315,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="654f390e-268f-4c34-b38e-e2c47046a37b" name="默认的" comment="" />
@@ -367,27 +331,28 @@
       <workItem from="1523344526228" duration="34711000" />
       <workItem from="1523442260043" duration="1040000" />
       <workItem from="1523858586200" duration="11702000" />
+      <workItem from="1524755393810" duration="2000" />
+      <workItem from="1524759266218" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="395433000" />
+    <option name="totallyTimeSpent" value="398050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14428647" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14376321" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -397,6 +362,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +381,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/index.wpy</url>
-          <line>136</line>
+          <line>186</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -441,7 +407,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/app.wpy</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
@@ -459,28 +424,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/library/sorts_list.wpy" />
-    <entry file="file://$PROJECT_DIR$/src/pages/borrow.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#view#1;n#view#0;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#view#1;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#image#0;n#view#0;n#view#0;n#view#1;n#view#0;n#view#1;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#view#3;n#view#0;n#view#1;n#view#0;n#view#1;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#image#0;n#view#3;n#view#0;n#view#1;n#view#0;n#view#1;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#image#0;n#view#0;n#view#0;n#view#1;n#view#1;n#view#1;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#7926#7949#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/borrow.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/user/library.wpy" />
     <entry file="file://$PROJECT_DIR$/src/mixins/ShareMessage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,36 +440,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-edit.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/collect.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="151" column="14" lean-forward="true" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-edit.png" />
+    <entry file="file://$PROJECT_DIR$/src/pages/collect.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/library/book.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/library/book_edit.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/book/detail.wpy" />
-    <entry file="file://$PROJECT_DIR$/src/pages/qr.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5044">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/qr.wpy" />
     <entry file="file://$PROJECT_DIR$/src/components/classifyList.wpy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-          <folding>
-            <element signature="e#1029#1062#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -528,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1933">
           <caret line="115" column="36" lean-forward="false" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,57 +464,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="869">
           <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/book/list.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/user/booklist.wpy" />
-    <entry file="file://$PROJECT_DIR$/src/images/tabbars/icon-qr-active.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/tabbars/icon-qr.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-comment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-error.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-eye@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-location@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-eye-active@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-scan.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/tabbars/icon-qr-active.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/tabbars/icon-qr.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-comment.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-error.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-eye@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-location@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-eye-active@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/icon/icon-scan.png" />
     <entry file="file://$PROJECT_DIR$/src/styles/custom/library.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3328">
           <caret line="128" column="9" lean-forward="false" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,83 +488,25 @@
     <entry file="file://$PROJECT_DIR$/src/pages/library/borrows.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/library/create.wpy" />
     <entry file="file://$PROJECT_DIR$/src/pages/library/library.wpy" />
-    <entry file="file://$PROJECT_DIR$/src/pages/user.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/party.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/user.wpy" />
+    <entry file="file://$PROJECT_DIR$/src/pages/party.wpy" />
     <entry file="file://$PROJECT_DIR$/wepy.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225">
           <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/pages/index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/mixins/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-967">
-          <caret line="158" column="43" lean-forward="true" selection-start-line="158" selection-start-column="43" selection-end-line="158" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/config.js" />
+    <entry file="file://$PROJECT_DIR$/dist/app.js" />
+    <entry file="file://$PROJECT_DIR$/dist/pages/index.json" />
+    <entry file="file://$PROJECT_DIR$/dist/pages/index.js" />
+    <entry file="file://$PROJECT_DIR$/dist/app.json" />
+    <entry file="file://$PROJECT_DIR$/dist/mixins/base.js" />
     <entry file="file://$PROJECT_DIR$/src/mixins/base.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
           <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,23 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/page.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,43 +535,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mixins/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="111" column="33" lean-forward="false" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ga.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mixins/http.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="111" column="33" lean-forward="true" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+        <state relative-caret-position="460">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.wpy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#9#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.wpy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-          <folding>
-            <element signature="e#413#436#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="721">
+          <caret line="181" column="10" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="181" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/page.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,7 @@ var HitBuilders = ga.HitBuilders
 export default class extends wepy.app {
   config = {
     pages: [
-      'pages/index',
+ //     'pages/index',
       'pages/page'
     ],
     window: {

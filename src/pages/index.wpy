@@ -8,6 +8,10 @@
       </view>
     </view>
   </view>
+  <view class="upload-image" @tap="chooseImage">
+      <image src="{{image}}" mode="aspectFit"></image>
+      <text>上传图片</text>
+  </view>
 </template>
 
 <script>
@@ -36,7 +40,7 @@
     }
 
     onReady() {
-      this.initPageData()
+     // this.initPageData()
     }
 
     onShareAppMessage(res) {
@@ -54,7 +58,7 @@
 
     onReachBottom() {
       setTimeout(() => {
-        this.updateBookList(this.page)
+     //   this.updateBookList(this.page)
         this.$apply()
       }, 200)
     }
@@ -130,6 +134,52 @@
     }
 
     methods = {
+    chooseImage() {
+    let that = this
+            wx.chooseImage({
+                count: 9,
+                sizeType: ['original', 'compressed'],
+                sourceType: ['album', 'camera'],
+
+                success: (res) => {
+                   // that.showLoading('正在上传图片…');
+                  //  console.log(api.getUrl('/upload'));
+                    wx.uploadFile({
+                        url: 'https://www.qcloud.la/applet/album/upload',
+                        filePath: res.tempFilePaths[0],
+                        name: 'image',
+
+                        success: (res) => {
+                        debugger
+                            let response = JSON.parse(res.data);
+
+                            if (response.code === 0) {
+                                console.log(response);
+
+                                let albumList = this.data.albumList;
+                                albumList.unshift(response.data.imgUrl);
+
+                                this.setData({ albumList });
+                                this.renderAlbumList();
+
+                                this.showToast('图片上传成功');
+                            } else {
+                                console.log(response);
+                            }
+                        },
+
+                        fail: (res) => {
+                            console.log('fail', res);
+                        },
+
+                        complete: () => {
+                            this.hideLoading();
+                        },
+                    });
+
+                },
+            });
+        },
     }
 
     components = {
